@@ -1,7 +1,7 @@
 # GripX-Tos
 
 ## Introduction
-These Terms of Service (“Terms”), which include and hereby incorporate the Privacy Policy (“Privacy Policy”), are a legal agreement between Presto (“we”, “us”, “our”) and you (“you” or “your”). By using our services, you agree to the terms outlined within this document.
+These Terms of Service (“Terms”), which include and hereby incorporate the Privacy Policy (“Privacy Policy”), are a legal agreement between GripX (“we”, “us”, “our”) and you (“you” or “your”). By using our services, you agree to the terms outlined within this document.
 
 ## Rights to use our services
 By using any of our services you agree to follow the following conditions without any objections, except with prior written permission by us.
