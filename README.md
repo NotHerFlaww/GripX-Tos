@@ -12,7 +12,7 @@ We reserve the right to revoke or block access to any service at any time if you
 Use of a third-party service in any service we provide does not indicate endorsement of said services nor do we take responsibility for the actions taken by these third-party services. You agree that we are not responsible or liable for any loss or damage as a result of interactions with these services.
 
 ## Branding
-Apollo’s branding (e.g. our logo, with or without the “GripX” name) MUST NOT be used in a way that is harmful to the brand, such as attempting to deceive a user and attempt to cause any harm to another user or any other malicious intent.
+GripX’s branding (e.g. our logo, with or without the “GripX” name) MUST NOT be used in a way that is harmful to the brand, such as attempting to deceive a user and attempt to cause any harm to another user or any other malicious intent.
 
 ## Termination
 We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
